@@ -1,0 +1,16 @@
+package tabla_multiplicar;
+
+/**
+ *
+ * @author Danna
+ */
+public class Tabla_multiplicar {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+    }
+    
+}
